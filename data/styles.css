@@ -67,6 +67,8 @@
   font-size:14px;
   text-align:left;
 }
+._默认样式 {
+}
 ._文本段落 {
   text-align:left;
 }
@@ -80,6 +82,8 @@
 }
 .radio_button {
   text-align:left;
+}
+._流程形状 {
 }
 .html_button {
   text-align:center;
