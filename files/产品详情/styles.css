@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u306_div {
+#u322_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -28,7 +28,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u306 {
+#u322 {
   position:absolute;
   left:0px;
   top:0px;
@@ -37,14 +37,14 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u307 {
+#u323 {
   position:absolute;
   left:2px;
   top:18px;
   width:371px;
   word-wrap:break-word;
 }
-#u308_div {
+#u324_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -61,7 +61,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u308 {
+#u324 {
   position:absolute;
   left:0px;
   top:0px;
@@ -71,14 +71,14 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u309 {
+#u325 {
   position:absolute;
   left:0px;
   top:18px;
   width:55px;
   word-wrap:break-word;
 }
-#u310_div {
+#u326_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -95,14 +95,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u310 {
+#u326 {
   position:absolute;
   left:0px;
   top:55px;
   width:375px;
   height:612px;
 }
-#u311 {
+#u327 {
   position:absolute;
   left:2px;
   top:298px;
@@ -110,21 +110,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u312_img {
+#u328_img {
   position:absolute;
   left:0px;
   top:0px;
   width:349px;
   height:165px;
 }
-#u312 {
+#u328 {
   position:absolute;
   left:11px;
   top:65px;
   width:349px;
   height:165px;
 }
-#u313 {
+#u329 {
   position:absolute;
   left:2px;
   top:74px;
@@ -132,7 +132,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u314_div {
+#u330_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -146,21 +146,21 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u314 {
+#u330 {
   position:absolute;
   left:11px;
   top:240px;
   width:225px;
   height:16px;
 }
-#u315 {
+#u331 {
   position:absolute;
   left:0px;
   top:0px;
   width:225px;
   white-space:nowrap;
 }
-#u316_div {
+#u332_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -176,7 +176,7 @@
   font-size:12px;
   color:#999999;
 }
-#u316 {
+#u332 {
   position:absolute;
   left:11px;
   top:270px;
@@ -185,7 +185,7 @@
   font-size:12px;
   color:#999999;
 }
-#u317 {
+#u333 {
   position:absolute;
   left:0px;
   top:0px;
